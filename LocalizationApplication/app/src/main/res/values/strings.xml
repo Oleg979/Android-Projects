@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Localized Application</string>
+    <string name="choose_lang">Choose language:</string>
+    <string name="m">meters</string>
+    <string name="km">kilometers</string>
+    <string name="cm">centimeters</string>
+    <string name="ft">feet</string>
+    <string name="ml">miles</string>
+    <string name="inch">inches</string>
+    <string-array name="lang_array">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+    <string name="app_name_ru">Локализованное приложение</string>
+    <string name="choose_lang_ru">Выберите язык:</string>
+    <string name="m_ru">метры</string>
+    <string name="km_ru">километры</string>
+    <string name="cm_ru">сантиметры</string>
+    <string name="ft_ru">футы</string>
+    <string name="ml_ru">мили</string>
+    <string name="inch_ru">дюймы</string>
+    <string-array name="lang_array_ru">
+        <item>English</item>
+        <item>Русский</item>
+    </string-array>
+</resources>
